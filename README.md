@@ -1,4 +1,4 @@
-# aws-s3-data
+# AWS S3 
 
 # setup virtual environment
 python3 -m venv venv
